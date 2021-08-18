@@ -1,5 +1,6 @@
 # Learning to Defer with Uncertainty
-This repository contains implementation of the Learning to Defer with Uncertainty (LDU) algorithm, an approach which considers the model's predictive uncertainty when identifying the patient group to be evaluated by human experts. The goal of LDU algorithm is to ensure patient safety when ML models are deployed in healthcare settings.
+This repository contains implementation of the Learning to Defer with Uncertainty (LDU) algorithm, an approach which considers the model's predictive uncertainty when identifying the patient group to be evaluated by human experts. By identifying patients for whom the uncertainty of computer-aided diagnosis is estimated to be high and defers them for evaluation by human experts, the LDU algorithm can be used to mitigate the risk of erroneous computer-aided diagnoses in clinical
+settings.
 
 ## Publication
 “Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis” http://arxiv.org/abs/2108.07392
