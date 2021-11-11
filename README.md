@@ -6,7 +6,7 @@ settings.
 “Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis” http://arxiv.org/abs/2108.07392
 
 ## Demo Code and Acknowledgement
-In addition to diagnostic tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", Refer to LDU_demo.py for using LDU algorithm on variouse deep learning classification tasks.
+In addition to diagnostic tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", LDU_demo.py and libs/ can be used to apply the learning to defer with uncertainty (LDU) algorithm on variouse deep learning classification tasks.
 If you found this repository useful, please consider citing our publication at http://arxiv.org/abs/2108.07392<br />
 
 ## Diagnostic Tasks
