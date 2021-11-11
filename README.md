@@ -1,12 +1,12 @@
-# Learning to Defer with Uncertainty
-This repository contains implementation of the Learning to Defer with Uncertainty (LDU) algorithm, an approach which considers the model's predictive uncertainty when identifying the patient group to be evaluated by human experts. By identifying patients for whom the uncertainty of computer-aided diagnosis is estimated to be high and defers them for evaluation by human experts, the LDU algorithm can be used to mitigate the risk of erroneous computer-aided diagnoses in clinical
-settings.
+# Learning to Defer with Uncertainty Algorithm 
+### Keywords: deep learning uncertainty, learning to defer, risk
+This repository contains implementation of the Learning to Defer with Uncertainty (LDU) algorithm, an approach which considers the model's predictive uncertainty for deep learning based automated diagnosis. It identifies patients for whom the uncertainty of computer-aided diagnosis is estimated to be high and defers them for evaluation by human experts (rejects / prevents automating this part of task with high risk), the LDU algorithm can be used to mitigate the risk of erroneous computer-aided diagnoses in clinical settings.
 
 ## Publication
 “Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis” http://arxiv.org/abs/2108.07392
 
 ## Demo Code and Acknowledgement
-In addition to the classification tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", LDU_demo.py and libs/ can be used to apply the learning to defer with uncertainty (LDU) algorithm on variouse deep learning classification tasks.
+In addition to the classification tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", LDU_demo.py and libs/ can be used to apply the learning to defer with uncertainty (LDU) algorithm on variouse deep learning classification tasks, for reducing the risk or uncertainty in predictions.
 If you found this repository useful, please consider citing our publication at http://arxiv.org/abs/2108.07392<br />
 
 ## Diagnostic Tasks
