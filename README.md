@@ -6,7 +6,7 @@ This repository contains implementation of the Learning to Defer with Uncertaint
 “Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis” http://arxiv.org/abs/2108.07392
 
 ## Demo Code and Acknowledgement
-In addition to the classification tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", LDU_demo.py and libs/, or the LDU_demo_notebook.ipynb can be used to apply the learning to defer with uncertainty (LDU) algorithm on variouse deep learning classification tasks, for reducing the risk or uncertainty in predictions.
+In addition to the classification tasks in publication "Incorporating Uncertainty in Learning to Defer Algorithms for Safe Computer-Aided Diagnosis", LDU_demo.py and libs/, or the LDU_demo_notebook.ipynb can be used to apply the learning to defer with uncertainty (LDU) algorithm on variouse deep learning classification tasks, to reduce the risk or uncertainty in predictions.
 If you found this repository useful, please consider citing our publication at http://arxiv.org/abs/2108.07392<br />
 
 ## Diagnostic Tasks
